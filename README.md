@@ -8,7 +8,7 @@
   
 ## My Tech Stack 💻
 
-<table>
+<table align="center">
   <tbody>     
     <tr valign="top">
       <td width="15%" align="center">
@@ -65,7 +65,7 @@
   </tbody>
 </table>
 
-### :fire: My Stats :
+## My Stats :fire:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith-Umeda&theme=react)](https://git.io/streak-stats)
 <br>
