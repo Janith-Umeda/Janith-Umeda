@@ -3,15 +3,13 @@
 <p align="center">
 <br>
 
-✔ j **a** 🚀<br>
-✔  📱<br>
-✔  💡<br>
-  <br>
-
+<img src="https://komarev.com/ghpvc/?username=Janith-Umeda&style=flat-square&color=blue" alt=""/>
+  
+  
 ## My Tech Stack 💻
 
 <table>
-  <tbody>
+  <tbody>     
     <tr valign="top">
       <td width="20%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
@@ -26,59 +24,54 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
-        <span>Bootstrap</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>My SQL</span><br><br><br>
+        <span>MySQL</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>                                                                
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>C++</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>C</span><br><br><br>
-        <img height="64px" src="https://www.mycplus.com/mycplus/wp-content/uploads/2020/10/c.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Java</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Bash</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bash-icon.svg">
       </td>
       <td width="20%" align="center">
         <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
+      <td width="20%" align="center">
+        <span>PHP</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+      </td> 
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>Pandas</span><br><br><br>
-        <img height="64px" src="https://pandas.pydata.org/static/img/pandas_white.svg">
+        <span>Node.js</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
       <td width="20%" align="center">
-        <span>VS Code</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>React.js</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="20%" align="center">
-        <span>Jupyter</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
+        <span>Three.js</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/threejs.svg">
       </td>
       <td width="20%" align="center">
-        <span>Wordpress</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
+        <span>Bootstap</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="20%" align="center">
-        <span>Selenium</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/selenium.svg">
+        <span>Jquery</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>GIT</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
   </tbody>
 </table>
 
 ## Connect With Me 📫
+<a href="mailto:bkjanith16@gmail.com">
+  <img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt='envolope' height="15px">
+   <span>bkjanith16@gmail.com</span>
+</a>
+<br><br>
+<a href="https://wa.me/+94712984359">
+  <img src="https://cdn.svgporn.com/logos/whatsapp-icon.svg" alt='wa' height="20px">
+   <span>+94712984359</span>
+</a>
