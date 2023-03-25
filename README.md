@@ -2,7 +2,6 @@
 <h3 align="center"> Web Development | Software Development </h3>
 <p align="center">
 <br>
-<img align="right" alt="GIF" src="https://github.com/demartini/demartini/blob/master/code.gif?raw=true" width="350" height="240" />
 
 ✔ j **a** 🚀<br>
 ✔  📱<br>
