@@ -35,6 +35,10 @@
         <span>PHP</span><br><br><br>
         <img height="45px" src="https://cdn.svgporn.com/logos/php.svg">
       </td> 
+      <td width="20%" align="center">
+        <span>Framer Motion</span><br><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/framer.svg">
+      </td> 
     </tr>
     <tr valign="top">
       <td width="15%" align="center">
@@ -60,6 +64,10 @@
       <td width="15%" align="center">
         <span>GIT</span><br><br><br>
         <img height="45px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Next.js</span><br><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
       </td>
     </tr>
   </tbody>
