@@ -89,5 +89,3 @@
   <img src="https://cdn.svgporn.com/logos/whatsapp-icon.svg" alt='wa' height="20px">
    <span>+94712984359</span>
 </a>
-
-[![Test](https://test.softgalle.com/)](https://test.softgalle.com/)
