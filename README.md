@@ -35,10 +35,6 @@
         <span>PHP</span><br><br><br>
         <img height="45px" src="https://cdn.svgporn.com/logos/php.svg">
       </td> 
-      <td width="20%" align="center">
-        <span>Framer Motion</span><br><br><br>
-        <img height="45px" src="https://cdn.svgporn.com/logos/framer.svg">
-      </td> 
     </tr>
     <tr valign="top">
       <td width="15%" align="center">
@@ -65,10 +61,32 @@
         <span>GIT</span><br><br><br>
         <img height="45px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="20%" align="center">
-        <span>Next.js</span><br><br><br>
-        <img height="45px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
-      </td>
+    </tr>
+    <tr valign="top">
+        <td width="15%" align="center">
+            <span>Next.js</span><br><br><br>
+            <img height="45px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
+        </td>
+        <td width="20%" align="center">
+            <span>Framer Motion</span><br><br><br>
+            <img height="45px" src="https://cdn.svgporn.com/logos/framer.svg">
+        </td> 
+        <td width="15%" align="center">
+            <span>Tailwind css</span><br><br><br>
+            <img height="45px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+        </td> 
+        <td width="15%" align="center">
+            <span>Laravel</span><br><br><br>
+            <img height="45px" src="https://cdn.svgporn.com/logos/laravel.svg">
+        </td> 
+        <td width="15%" align="center">
+            <span>Jira</span><br><br><br>
+            <img height="45px" src="https://cdn.svgporn.com/logos/jira.svg">
+        </td> 
+        <td width="15%" align="center">
+            <span>VS-Code</span><br><br><br>
+            <img height="45px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        </td> 
     </tr>
   </tbody>
 </table>
